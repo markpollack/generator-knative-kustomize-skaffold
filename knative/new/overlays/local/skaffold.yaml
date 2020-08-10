@@ -2,7 +2,7 @@
 actions:
   to: skaffold.yaml
 ---
-apiVersion: skaffold/v2alpha2
+apiVersion: skaffold/v2beta6
 kind: Config
 profiles:
   - name: local
