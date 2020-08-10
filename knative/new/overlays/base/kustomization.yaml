@@ -4,5 +4,4 @@ actions:
 ---
 namePrefix: {{artifactId}}-
 resources:
-  - github.com/kustomizations/spring-boot-knative?ref=v0.1.0
-
+  - github.com/kustomizations/spring-boot-knative?ref=v0.1.1
